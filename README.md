@@ -1,2 +1,1 @@
-# Python1
-teach python
+我是携酒负琴，美女约么？
